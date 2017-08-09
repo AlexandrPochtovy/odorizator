@@ -1,0 +1,47 @@
+﻿<CCAlarmFilterStorage>
+  <CCAlarmFilter>
+    <Name>Сообщения управления</Name>
+    <SQL>Class = 64</SQL>
+    <Comment>Показывает только сообщения управления</Comment>
+    <CreateUser>sharp</CreateUser>
+    <CreateDate>02.06.2017 10:06:52</CreateDate>
+    <LastUser>sharp</LastUser>
+    <LastDate>19.06.2017 9:39:31</LastDate>
+  </CCAlarmFilter>
+  <CCAlarmFilter>
+    <Name>Системные сообщения</Name>
+    <SQL>Class = 3</SQL>
+    <Comment>Показывает только сообщения системы</Comment>
+    <CreateUser>sharp</CreateUser>
+    <CreateDate>02.06.2017 10:07:59</CreateDate>
+    <LastUser>sharp</LastUser>
+    <LastDate>19.06.2017 9:39:31</LastDate>
+  </CCAlarmFilter>
+  <CCAlarmFilter>
+    <Name>Сообщения диагностики</Name>
+    <SQL>Class = 4</SQL>
+    <Comment>Показывает только сообщения диагностики</Comment>
+    <CreateUser>sharp</CreateUser>
+    <CreateDate>02.06.2017 10:08:26</CreateDate>
+    <LastUser>sharp</LastUser>
+    <LastDate>19.06.2017 9:39:31</LastDate>
+  </CCAlarmFilter>
+  <CCAlarmFilter>
+    <Name>Предупреждения</Name>
+    <SQL>Class = 2</SQL>
+    <Comment>Показывает только предупреждения</Comment>
+    <CreateUser>sharp</CreateUser>
+    <CreateDate>02.06.2017 10:09:01</CreateDate>
+    <LastUser>sharp</LastUser>
+    <LastDate>19.06.2017 9:39:31</LastDate>
+  </CCAlarmFilter>
+  <CCAlarmFilter>
+    <Name>Прочее</Name>
+    <SQL>Class = 34</SQL>
+    <Comment>Показывает все остальное</Comment>
+    <CreateUser>sharp</CreateUser>
+    <CreateDate>02.06.2017 10:10:05</CreateDate>
+    <LastUser>sharp</LastUser>
+    <LastDate>19.06.2017 9:39:31</LastDate>
+  </CCAlarmFilter>
+</CCAlarmFilterStorage>
